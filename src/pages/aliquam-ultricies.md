@@ -30,13 +30,7 @@ home:
     weight: 1
 template: page
 ---
-Wir sind
-
-**Jana Bähringer** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin, Kinder-Optometrie
-
-**Sandra Röser** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin
-
-**Tobias Brandhofer** staatl. geprüfter Augenoptiker und Augenoptiker-Meister
+Wir sind **Jana Bähringer** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin, Kinder-Optometrie. **Sandra Röser** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin. **Tobias Brandhofer** staatl. geprüfter Augenoptiker und Augenoptiker-Meister.
 
 In Passau, Stuttgart, Koblenz, Berlin, Hillesheim, Bad Liebenzell, Graz, Hartberg und Lille werden 99% unserer Fassungen gefertigt. Produktionsstandards nach EU-Recht werden garantiert, Handwerkstradition und Arbeitsplätze in Deutschland und Europa werden gesichert. Die Lieferwege sind kurz. Wir verzichten auf Marken deren Fassungen in fernen Billiglohnländern produziert werden.
 
