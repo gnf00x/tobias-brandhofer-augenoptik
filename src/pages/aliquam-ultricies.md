@@ -14,22 +14,29 @@ content_img: /images/_MG_8297-HDR-2.jpg
 home:
   highlights:
     enabled: true
-    excerpt: >-
-      Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
-      purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
-      finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
-      ornare, justo non.
+    excerpt: ''
     home_img:
       data_position: center right
-      path: images/pic01.jpg
+      path: ''
     weight: 1
   spotlights:
     weight: 1
 template: page
 ---
+Wir sind
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+**Jana Bähringer** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin, Kinder-Optometrie
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+**Sandra Röser** staatl. geprüfte Augenoptikerin und Augenoptiker-Meisterin
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+**Tobias Brandhofer** staatl. geprüfter Augenoptiker und Augenoptiker-Meister
+
+In Passau, Stuttgart, Koblenz, Berlin, Hillesheim, Bad Liebenzell, Graz, Hartberg und Lille werden 99% unserer Fassungen gefertigt. Produktionsstandards nach EU-Recht werden garantiert, Handwerkstradition und Arbeitsplätze in Deutschland und Europa werden gesichert. Die Lieferwege sind kurz. Wir verzichten auf Marken deren Fassungen in fernen Billiglohnländern produziert werden.
+
+Einige Gestelle aus Titan beziehen wir weiterhin von traditionellen Herstellern aus Japan.
+
+Ein langer Weg hat sich gelohnt: nach 3 Jahren Entwicklungszeit können wir Ihnen seit Anfang 2020 nun endlich auch unsere eigenen Gestelle präsentieren. Merkmale sind zum Beispiel extra lang gelagertes Acetat und selbstverständlich Made in Germany.
+
+Augenmessungen und Beratungen werden bei uns ausnahmslos von MeisterInnen vorgenommen. Für Kinder, Schüler, Azubis und Studenten haben wir spezielle Angebote.
+
+Wir beraten gerne auf Termin. Auch außerhalb unserer regulären Öffnungszeiten. Melden Sie sich am besten per Email bei uns. Wir freuen uns darauf, Sie in Ruhe beraten zu dürfen.
