@@ -5,7 +5,10 @@ social_icons:
   - icon: fa-instagram
     title: Instagram
     url: '#'
-copyright: '&copy; 2020 Tobias Brandhofer.'
+copyright: >-
+  &copy; 2020 Tobias Brandhofer. Öffnungszeiten Mi-Fr 10h – 19h | Sa: 10h – 15h
+  | So, Mo und Di: geschlossen | Merowingerstr. 16 | 50677 Köln | T: 0221/313574
+  | mail@tobiasbrandhofer.de
 links:
   - new_window: true
     text: Made with Stackbit
