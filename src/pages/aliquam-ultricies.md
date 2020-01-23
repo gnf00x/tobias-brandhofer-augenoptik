@@ -1,6 +1,6 @@
 ---
 title: Tobias Brandhofer Augenoptik
-display_header: true
+display_header: false
 subtitle: >-
   Öffnungszeiten\
 
