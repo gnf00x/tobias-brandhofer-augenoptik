@@ -4,8 +4,15 @@ display_header: false
 subtitle: >-
   Öffnungszeiten\
 
-  Mi-Fr 10h – 19h | Sa: 10h – 15h | So, Mo und Di: geschlossen | Merowingerstr.
-  16 | 50677 Köln | T: 0221/313574 | mail@tobiasbrandhofer.de
+  Mi-Fr 10h – 19h \
+
+  Sa: 10h – 15h \
+
+  So, Mo und Di: geschlossen \
+
+  Merowingerstr. 16 | 50677 Köln \
+
+  T: 0221/313574  | mail@tobiasbrandhofer.de
 
 
   Einen persönlichen Termin innerhalb oder außerhalb der Öffnungszeiten
