@@ -1,22 +1,30 @@
 ---
-title: Aliquam ultricies
+title: Tobias Brandhofer Augenoptik
 display_header: true
 subtitle: >-
-  Vitae dictum. Sed consectetur nulla lacus, ultricies ornare lacus volutpat at.
-  Nunc rutrum turpis.
-content_img: images/pic06.jpg
+  Öffnungszeiten\
+
+  Mi-Fr 10h – 19h | Sa: 10h – 15h | So, Mo und Di: geschlossen | Merowingerstr.
+  16 | 50677 Köln | T: 0221/313574 | mail@tobiasbrandhofer.de
+
+
+  Einen persönlichen Termin innerhalb oder außerhalb der Öffnungszeiten
+  vereinbaren Sie gerne per Email mit uns.
+content_img: /images/_MG_8297-HDR-2.jpg
 home:
   highlights:
     enabled: true
-    weight: 1
     excerpt: >-
       Maecenas et tempor tortor. Aenean ut est tortor. Aenean fer enim amet
       purus mattis lacinia. Maecenas et rhoncus, etiam magna vitae tempus
       finibus, nisi elit aliquet nisl, ac commodo neque est et dolor. Donec sed
       ornare, justo non.
     home_img:
-      path: images/pic01.jpg
       data_position: center right
+      path: images/pic01.jpg
+    weight: 1
+  spotlights:
+    weight: 1
 template: page
 ---
 
